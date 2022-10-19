@@ -64,6 +64,11 @@ header {
     margin-left: 10px;
 }
 
+.icon:hover,
+.icon:focus {
+    opacity: .5;
+}
+
 .noMargin {
     margin-top: 9px;
 }
